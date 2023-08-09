@@ -1,0 +1,15 @@
+.light{
+background-color: antiquewhite;
+}
+.checked {
+    color: orange;
+  }
+th{
+    padding-left : 50px;
+    padding-right: 30px;
+    background-color: antiquewhite;
+  }
+td{
+    padding-left : 50px;
+    padding-right: 30px;  
+}
